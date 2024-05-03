@@ -1,0 +1,43 @@
+.body{
+    background-color: darkseagreen;
+
+}
+
+.h1{
+    background-color: chartreuse;
+}
+
+ Changing font family
+body {
+    font-family: Arial, sans-serif; /* Use any font family*/
+}
+
+The flag = a7508d3cd6eb57c50a204234c0e1e47d
+
+Changing font size 
+p {
+    font-size: 16px; Use any font size 
+}
+ Changing font color 
+h1 {
+    color: blue; Use any color code or color name 
+    .container {
+        padding: 20px;
+    }
+    
+    .item {
+        margin: 10px;
+    }
+    a {
+        color: #007bff;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    a:hover {
+        color: #0056b3;
+     
+        
+
